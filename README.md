@@ -1,6 +1,6 @@
 # Snake Game
 
-This project is a simple fully functional Snake game, paired with a Menu GUI.
+A simple yet fun fully functional Snake game, paired with a built in Main Menu.
 
 ### Usage
 
