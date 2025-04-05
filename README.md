@@ -1,6 +1,6 @@
 # Snake Game
 
-A simple yet fun fully functional Snake game, paired with a built in Main Menu.
+A simple Snake game, paired with a built in Main Menu.
 
 ### Usage
 
